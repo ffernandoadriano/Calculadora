@@ -1,0 +1,88 @@
+#visorDaCalculadora{
+    -fx-background-color: #c1d798;
+    -fx-background-radius: 15;
+}
+
+#lblResult{
+    -fx-font-size: 40px;
+    -fx-font-weight: bold;
+}
+
+#background{
+    -fx-background-color:  #595b67;
+}
+
+#botaoLimpar{
+     -fx-background-radius: 50%;
+     -fx-background-color: #DAA520;
+     -fx-text-fill:  #FFFFFF;
+     -fx-border-width: 2px; /* Largura da borda */
+}
+
+.button {
+	-fx-font-size: 25px;
+	-fx-background-radius: 15;
+}
+
+#lblError{
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+}
+
+
+
+#corButaoNumero{
+    -fx-background-color: #3d4049;
+    -fx-text-fill:  #FFFFFF;
+    -fx-background-radius: 15;
+    -fx-font-size: 28px;
+}
+
+
+#corButaoOperacao{
+    -fx-background-color: #bec2c9;
+    -fx-text-fill:  #FFFFFF;
+    -fx-font-weight: bold;
+}
+
+#corButaoNumero:hover {
+    -fx-background-color: #4f525b; /* Cor de fundo ao passar o mouse */
+    -fx-border-color: #33363d; /* Cor da borda ao passar o mouse */
+    -fx-border-width: 0.5px; /* Largura da borda */
+    -fx-border-radius: 15; /* Cantos arredondados ao clicar */
+}
+
+#corButaoNumero:pressed {
+    -fx-background-color: #2d2f35; /* Cor de fundo ao clicar */
+    -fx-border-color: #0d0e11; /* Cor da borda ao clicar */
+    -fx-border-width: 0.5px; /* Largura da borda */
+    -fx-border-radius: 15; /* Cantos arredondados ao clicar */
+}
+
+#corButaoOperacao:hover {
+    -fx-background-color: #d0d4db; /* Cor de fundo ao passar o mouse */
+    -fx-border-color: #aeb4bc; /* Cor da borda ao passar o mouse */
+    -fx-border-width: 0.5px; /* Largura da borda */
+    -fx-border-radius: 15; /* Cantos arredondados ao clicar */
+}
+
+#corButaoOperacao:pressed {
+    -fx-background-color: #aab1b8; /* Cor de fundo ao clicar */
+    -fx-border-color: #888f97; /* Cor da borda ao clicar */
+    -fx-border-width: 0.5px; /* Largura da borda */
+    -fx-border-radius: 15; /* Cantos arredondados ao clicar */
+}
+
+#botaoLimpar:hover {
+   -fx-background-color: #B8860B; /* Cor de fundo mais escura ao passar o mouse */
+   -fx-border-color: #FFD700; /* Cor da borda ouro ao passar o mouse */
+   -fx-border-width: 0.5px; /* Largura da borda */
+   -fx-border-radius: 50%; /* Cantos arredondados ao passar o mouse */
+}
+
+#botaoLimpar:pressed {
+    -fx-background-color: #8B4513; /* Cor de fundo ainda mais escura quando clicado */
+    -fx-border-color: #FFD700; /* Cor da borda ouro quando clicado */
+    -fx-border-width: 0.5px; /* Largura da borda */
+    -fx-border-radius: 50%; /* Cantos arredondados ao clicar */
+}
