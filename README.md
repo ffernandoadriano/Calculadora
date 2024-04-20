@@ -33,4 +33,4 @@
 - SceneBuilder
 
 ### - **🔗 Executável:**
-<a href="https://raw.githubusercontent.com/ffernandoadriano/Calculadora/main/Calculadora.exe?token=GHSAT0AAAAAACON6UOE5TFVLVZH5EDJ6XHKZRDZTKQ">Baixar Calculadora</a>
+<a href="https://github.com/ffernandoadriano/Calculadora/raw/main/Calculadora.exe">Baixar Calculadora</a>
