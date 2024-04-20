@@ -1,7 +1,9 @@
 # 📲 Calculadora
 ## Projeto com JavaFX
 
-![Animação](https://github.com/ffernandoadriano/Calculadora/assets/96425026/d960fa88-5021-4579-a9e5-dc3658240d1d)
+<p align="center">
+  <img src="https://github.com/ffernandoadriano/Calculadora/assets/96425026/d960fa88-5021-4579-a9e5-dc3658240d1d.gif" />
+</p>
 
 
 ## 📚 Conhecimentos aplicados
@@ -30,4 +32,10 @@
 ### - **🔨 Ferramentas:**
 - SceneBuilder
 
-
+<style>
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
