@@ -32,5 +32,5 @@
 ### - **🔨 Ferramentas:**
 - SceneBuilder
 
-### - **🔗 Executável:**
+### - **🔗 Executável para Windows:**
 <a href="https://github.com/ffernandoadriano/Calculadora/raw/main/Calculadora.exe">Baixar Calculadora</a>
